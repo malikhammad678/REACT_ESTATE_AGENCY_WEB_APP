@@ -1,0 +1,22 @@
+.f_wrapper {
+    padding: 1.5rem 7rem;
+}
+.f_container {
+    width: 100%;
+    padding: 1.5rem;
+    display: flex;
+  row-gap: 2rem;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.f_menu {
+    gap: 1rem;
+    color: #333;
+    font-weight: 600;
+    margin-top: 1rem;
+    cursor: pointer;
+}
+.f_menu span:hover {
+    text-decoration: underline;
+}

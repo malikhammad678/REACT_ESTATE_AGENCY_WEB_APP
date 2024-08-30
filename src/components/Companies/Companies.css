@@ -1,0 +1,13 @@
+.companies .companies_container {
+  padding: 1.5rem 7rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.companies {
+  background: white;
+  padding-inline: 7rem;
+}
+.companies .companies_container img {
+  width: 9rem;
+}

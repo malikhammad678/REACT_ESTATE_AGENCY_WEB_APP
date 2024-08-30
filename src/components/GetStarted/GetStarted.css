@@ -1,0 +1,31 @@
+.g_container {
+    width: 100%;
+    padding: 1.5rem;
+}
+.g_wrapper {
+    padding: 1.5rem 7rem;
+}
+.inner_container {
+    background:#4161df ;
+    padding: 2rem;
+    gap: 1.5rem;
+    border-radius: 10px;
+}
+.inner_container .primaryText {
+    color: white;
+    font-weight: 600;
+}
+.inner_container .secondaryText {
+    color: rgba(255,255,255,0.587);
+    text-align: center;
+}
+.button.btnStart {
+    transform: none;
+    background: white;
+    color: #333;
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+.button.btnStart:hover {
+    transform: none;
+}
